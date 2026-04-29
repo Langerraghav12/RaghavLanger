@@ -66,10 +66,10 @@
 
 ## 🌐 Connect with Me
 <p>
-<a href="https://linkedin.com/in/your-link" target="blank">
+<a href="https://www.linkedin.com/in/raghav-langer-b549243b9" target="blank">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
-<a href="mailto:your@email.com">
+<a href="mailto:raghavlanger663@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
 </p>
