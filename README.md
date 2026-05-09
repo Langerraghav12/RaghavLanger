@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Raghav Langer</h1>
-<h3 align="center">Frontend Developer | Building Clean & Scalable UI</h3>
+<h3 align="center">Full Stack Developer | Building Clean & Scalable UI</h3>
 
 <p align="center">
 🚀 Passionate about creating modern web experiences <br>
